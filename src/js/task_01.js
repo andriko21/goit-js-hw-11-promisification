@@ -1,4 +1,3 @@
-//! Закомітив щоб не конфліктувало
 
 // const delay = ms => {
 //     return new Promise((resolve)=> {
